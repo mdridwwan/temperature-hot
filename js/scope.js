@@ -1,0 +1,3 @@
+function patriChai(age, earning) {
+
+}
